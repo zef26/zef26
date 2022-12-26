@@ -8,7 +8,7 @@ I am studying at TUIT SF University
 
 * 🌍  I'm based in Samarkand, Uzbekista
 * ✉️  You can contact me at [frsalavat@gmail.com](mailto:frsalavat@gmail.com)
-* 🧠  I'm learning JavaScript
+* 🧠  I'm learning DOM tree
 
 ### Skills
 
