@@ -6,7 +6,7 @@ Front-end Developer
 
 I am studying at TUIT SF University
 
-* 🌍  I'm based in Samarkand, Uzbekista
+* 🌍  I'm based in Samarkand, Uzbekistan
 * ✉️  You can contact me at [frsalavat@gmail.com](mailto:frsalavat@gmail.com)
 * 🧠  I'm learning DOM tree
 
