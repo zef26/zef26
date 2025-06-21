@@ -19,7 +19,7 @@ Here on GitHub, I share my projects, experiment with new tech, and level up my s
 Open to collaboration, creative tasks, and growing with a like-minded dev community.
 
 * 🌍  I'm based in Uzbekistan/Samarkand
-* 🖥️  See my portfolio at [My Portfolio](http://https://zef26.github.io/port/)
+* 🖥️  See my portfolio at [My Portfolio](http://zef26.github.io/port/)
 * ✉️  You can contact me at [salavatkar4@gmail.com](mailto:salavatkar4@gmail.com)
 * 🧠  I'm learning Vue and TS
 * 🤝  I'm open to collaborating on interesting projects
