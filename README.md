@@ -9,11 +9,8 @@ I'm a frontend developer passionate about building modern, user-friendly web int
 Here on GitHub, I share my projects, experiment with new tech, and level up my skills.
 
 🔭 Currently working on pet projects and freelance gigs
-
 💡 Interested in React, animations, UI/UX, and automation
-
 🌱 Learning TypeScript and app architecture best practices
-
 ⚡ I love clean code, simple solutions, and dark mode
 
 Open to collaboration, creative tasks, and growing with a like-minded dev community.
