@@ -8,7 +8,7 @@ I'm a frontend developer passionate about building modern, user-friendly web int
 
 Here on GitHub, I share my projects, experiment with new tech, and level up my skills.
 
-🔭 Currently working on pet projects and freelance gigs
+🔭 Currently working on pet projects and freelance gigs.
 
 💡 Interested in React, animations, UI/UX, and automation
 
