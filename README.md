@@ -42,9 +42,9 @@ src="https://img.shields.io/github/followers/zef26?logo=github&style=for-the-bad
 
 <a href="https://github.com/zef26" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zef26&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+
+<div width="100%" align="center"></div> <br />
 
 ### Support Me
 
