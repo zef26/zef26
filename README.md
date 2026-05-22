@@ -10,7 +10,7 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-zef26-82aaff?style=for-the-badge&logo=github&logoColor=white&labelColor=011627)](https://github.com/zef26)
-[![Threads](https://img.shields.io/badge/Threads-%40k.salavat26-c792ea?style=for-the-badge&logo=threads&logoColor=white&labelColor=011627)](https://www.threads.net/@k.salavat26)
+[![Instagram](https://img.shields.io/badge/Instagram-%40k.salavat26-c792ea?style=for-the-badge&logo=instagram&logoColor=white&labelColor=011627)](https://www.instagram.com/k.salavat26)
 [![Email](https://img.shields.io/badge/Email-salavatkar4%40gmail.com-7fdbca?style=for-the-badge&logo=gmail&logoColor=white&labelColor=011627)](mailto:salavatkar4@gmail.com)
 
 </div>
