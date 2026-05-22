@@ -21,15 +21,16 @@
 
 ### About Me
 
-Frontend developer from **Samarkand, Uzbekistan**.
+Frontend developer with **4 years of experience** based in **Samarkand, Uzbekistan**.
 
-I build fast, clean, and accessible web interfaces with a sharp eye for design details and UX.
+I build everything — from simple landing pages to complex web applications.
+Currently working full-time and continuously leveling up my craft.
 
-- Working on freelance & pet projects
-- Deep diving into **TypeScript** & architecture
-- Obsessed with animations & UI polish
-- Ask me about **React, Vue, Tailwind, Figma**
-- Open to interesting work & collaboration
+- 💼 &nbsp;4 years of commercial frontend experience
+- 🏗 &nbsp;Built projects of all scales — landings, dashboards, e-commerce
+- 🎯 &nbsp;Sharp eye for UI details, clean code, and smooth UX
+- 📈 &nbsp;Always learning — focused on **TypeScript** & app architecture
+- 🤝 &nbsp;Open to interesting projects and collaboration
 
 <br clear="right"/>
 
