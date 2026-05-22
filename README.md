@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:011627,50:0d2137,100:82aaff&height=200&section=header&text=Salavat%20Karimov&fontSize=60&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=Frontend%20Developer&descSize=18&descAlignY=72&descColor=82aaff&stroke=82aaff&strokeWidth=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:011627,50:0d2137,100:82aaff&height=200&section=header&text=Salavat%20Karachurin&fontSize=60&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=Frontend%20Developer&descSize=18&descAlignY=72&descColor=82aaff&stroke=82aaff&strokeWidth=2" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=1000&color=82AAFF&center=true&vCenter=true&width=560&lines=Building+interfaces+that+feel+right;React+%E2%80%A2+Vue+%E2%80%A2+TypeScript+%E2%80%A2+Tailwind;From+Figma+%E2%86%92+pixel-perfect+code;Open+to+work+%26+collaboration" />
 
