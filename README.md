@@ -97,6 +97,6 @@ I build fast, clean, and accessible web interfaces with a sharp eye for design d
 
 *The details are not the details. They make the design.*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:011627,30:1a1b26,100:82aaff&height=120&section=footer&fontColor=c0caf5&fontSize=14&desc=Thanks%20for%20visiting%20%F0%9F%91%8B&descAlignY=65&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:011627,30:1a1b26,100:82aaff&height=120&section=footer" />
 
 </div>
