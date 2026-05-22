@@ -21,15 +21,17 @@
 
 ### About Me
 
-Frontend developer with **4 years of experience** based in **Samarkand, Uzbekistan**.
+**React-focused** frontend developer with **4 years of experience** from **Samarkand, Uzbekistan**.
 
-I build everything — from simple landing pages to complex web applications.
-Currently working full-time and continuously leveling up my craft.
+I specialize in building modern web interfaces with React ecosystem.
+Currently expanding into **React Native** to bring my skills to mobile.
 
 - 💼 &nbsp;4 years of commercial frontend experience
+- ⚛️ &nbsp;React is my main weapon — hooks, context, performance optimization
+- 📱 &nbsp;Learning **React Native** — going from web to mobile
 - 🏗 &nbsp;Built projects of all scales — landings, dashboards, e-commerce
-- 🎯 &nbsp;Sharp eye for UI details, clean code, and smooth UX
-- 📈 &nbsp;Always learning — focused on **TypeScript** & app architecture
+- 🎯 &nbsp;Sharp eye for UI details, animations, and smooth UX
+- 📈 &nbsp;Always leveling up — currently deep in **TypeScript** & architecture
 - 🤝 &nbsp;Open to interesting projects and collaboration
 
 <br clear="right"/>
