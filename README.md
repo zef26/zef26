@@ -95,7 +95,7 @@ I build fast, clean, and accessible web interfaces with a sharp eye for design d
 
 <div align="center">
 
-*The details are not the details. They make the design.*
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:011627,30:1a1b26,100:82aaff&height=120&section=footer" />
 
