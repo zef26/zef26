@@ -42,7 +42,7 @@ Currently expanding into **React Native** to bring my skills to mobile.
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=ts,js,react,vue,tailwind,sass,html,css,vite,webpack,redux,zustand,git,figma,vscode&theme=dark&perline=8)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=ts,js,react,vue,tailwind,sass,html,css,vite,webpack,redux,git,figma,vscode,reactnative&theme=dark&perline=8)](https://skillicons.dev)
 
 </div>
 
