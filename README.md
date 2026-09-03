@@ -28,7 +28,7 @@
 I specialize in building modern web interfaces with React ecosystem.
 Currently expanding into **React Native** to bring my skills to mobile.
 
-- 💼 &nbsp;4 years of commercial frontend experience
+- 💼 &nbsp;5 years of commercial frontend experience
 - ⚛️ &nbsp;React is my main weapon — hooks, context, performance optimization
 - 📱 &nbsp;Learning **React Native** — going from web to mobile
 - 🏗 &nbsp;Built projects of all scales — landings, dashboards, e-commerce
