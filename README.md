@@ -23,7 +23,7 @@
 
 ### About Me
 
-**React-focused** frontend developer with **4 years of experience** from **Samarkand, Uzbekistan**.
+**React-focused** frontend developer with **5 years of experience** from **Samarkand, Uzbekistan**.
 
 I specialize in building modern web interfaces with React ecosystem.
 Currently expanding into **React Native** to bring my skills to mobile.
