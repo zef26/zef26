@@ -7,8 +7,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zef26&color=82aaff&style=for-the-badge&label=PROFILE+VIEWS)
 &nbsp;
-[![committers.top badge](https://user-badge.committers.top/uzbekistan/zef26.svg)](https://committers.top/uzbekistan#zef26)
-&nbsp;
 [![committers.top badge all contributions](https://user-badge.committers.top/uzbekistan_private/zef26.svg)](https://committers.top/uzbekistan_private#zef26)
 
 <br/>
